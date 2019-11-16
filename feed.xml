@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cba-Ecity</title>
+    <link href="https://cba-ecity.github.io/feed.xml" rel="self" />
+    <link href="https://cba-ecity.github.io" />
+    <updated>2019-11-16T18:19:55+05:30</updated>
+    <author>
+        <name>John</name>
+    </author>
+    <id>https://cba-ecity.github.io</id>
+
+    <entry>
+        <title>Welcome Test</title>
+        <author>
+            <name>John</name>
+        </author>
+        <link href="https://cba-ecity.github.io/welcome-test.html"/>
+        <id>https://cba-ecity.github.io/welcome-test.html</id>
+
+        <updated>2019-11-16T18:16:00+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

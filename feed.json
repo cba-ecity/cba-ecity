@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cba-Ecity",
+    "description": "",
+    "home_page_url": "https://cba-ecity.github.io",
+    "feed_url": "https://cba-ecity.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "John"
+    },
+    "items": [
+        {
+            "id": "https://cba-ecity.github.io/welcome-test.html",
+            "url": "https://cba-ecity.github.io/welcome-test.html",
+            "title": "Welcome Test",
+            "author": {
+                "name": "John"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-16T18:16:00+05:30",
+            "date_modified": "2019-11-16T18:16:00+05:30"
+        }
+    ]
+}
