@@ -3,21 +3,45 @@
     <title>Cba-Ecity</title>
     <link href="https://cba-ecity.github.io/feed.xml" rel="self" />
     <link href="https://cba-ecity.github.io" />
-    <updated>2019-11-16T18:19:55+05:30</updated>
+    <updated>2019-11-17T18:56:18+05:30</updated>
     <author>
         <name>John</name>
     </author>
     <id>https://cba-ecity.github.io</id>
 
     <entry>
-        <title>Welcome Test</title>
+        <title>About</title>
         <author>
             <name>John</name>
         </author>
-        <link href="https://cba-ecity.github.io/welcome-test.html"/>
-        <id>https://cba-ecity.github.io/welcome-test.html</id>
+        <link href="https://cba-ecity.github.io/about.html"/>
+        <id>https://cba-ecity.github.io/about.html</id>
 
-        <updated>2019-11-16T18:16:00+05:30</updated>
+        <updated>2019-11-17T18:53:33+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>John</name>
+        </author>
+        <link href="https://cba-ecity.github.io/contact.html"/>
+        <id>https://cba-ecity.github.io/contact.html</id>
+
+        <updated>2019-11-17T18:53:00+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Location</title>
+        <author>
+            <name>John</name>
+        </author>
+        <link href="https://cba-ecity.github.io/location.html"/>
+        <id>https://cba-ecity.github.io/location.html</id>
+
+        <updated>2019-11-17T18:52:54+05:30</updated>
             <summary></summary>
         <content></content>
     </entry>

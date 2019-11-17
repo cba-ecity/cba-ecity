@@ -5,21 +5,46 @@
     "home_page_url": "https://cba-ecity.github.io",
     "feed_url": "https://cba-ecity.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://cba-ecity.github.io/media/website/bitmap.png",
     "author": {
         "name": "John"
     },
     "items": [
         {
-            "id": "https://cba-ecity.github.io/welcome-test.html",
-            "url": "https://cba-ecity.github.io/welcome-test.html",
-            "title": "Welcome Test",
+            "id": "https://cba-ecity.github.io/about.html",
+            "url": "https://cba-ecity.github.io/about.html",
+            "title": "About",
             "author": {
                 "name": "John"
             },
             "tags": [
             ],
-            "date_published": "2019-11-16T18:16:00+05:30",
-            "date_modified": "2019-11-16T18:16:00+05:30"
+            "date_published": "2019-11-17T18:53:33+05:30",
+            "date_modified": "2019-11-17T18:53:33+05:30"
+        },
+        {
+            "id": "https://cba-ecity.github.io/contact.html",
+            "url": "https://cba-ecity.github.io/contact.html",
+            "title": "Contact",
+            "author": {
+                "name": "John"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-17T18:53:00+05:30",
+            "date_modified": "2019-11-17T18:53:00+05:30"
+        },
+        {
+            "id": "https://cba-ecity.github.io/location.html",
+            "url": "https://cba-ecity.github.io/location.html",
+            "title": "Location",
+            "author": {
+                "name": "John"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-17T18:52:54+05:30",
+            "date_modified": "2019-11-17T18:52:54+05:30"
         }
     ]
 }
