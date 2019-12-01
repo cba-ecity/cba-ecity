@@ -5,7 +5,7 @@
     "home_page_url": "https://cba-ecity.github.io",
     "feed_url": "https://cba-ecity.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://cba-ecity.github.io/media/website/bitmap.png",
+    "icon": "https://cba-ecity.github.io/media/website/CBA-Logo-v-2-800-by-314.png",
     "author": {
         "name": "John"
     },
@@ -15,7 +15,7 @@
             "url": "https://cba-ecity.github.io/services.html",
             "title": "Services",
             "summary": "&hellip;",
-            "content_html": "<table style=\"width: 670px;\">\n<tbody>\n<tr>\n<td style=\"width: 159px;\"><strong>Day</strong></td>\n<td style=\"width: 263px;\"><strong>Activity</strong></td>\n<td style=\"width: 247px;\"><strong>Time</strong></td>\n</tr>\n<tr>\n<td style=\"width: 159px;\">Sunday</td>\n<td style=\"width: 263px;\">Sunday School</td>\n<td style=\"width: 247px;\">8:45 AM to 9:20 AM</td>\n</tr>\n<tr>\n<td style=\"width: 159px;\">Sunday</td>\n<td style=\"width: 263px;\">Worship Meeting</td>\n<td style=\"width: 247px;\">9:30 AM to 11:30 AM</td>\n</tr>\n<tr>\n<td style=\"width: 159px;\">Wednesday</td>\n<td style=\"width: 263px;\">Prayer Meeting</td>\n<td style=\"width: 247px;\">7:00 PM to 08:00 PM</td>\n</tr>\n<tr>\n<td style=\"width: 159px;\">Friday</td>\n<td style=\"width: 263px;\">Fasting Prayer</td>\n<td style=\"width: 247px;\">10:00 AM to 01:00 PM</td>\n</tr>\n<tr>\n<td style=\"width: 159px;\">Saturday</td>\n<td style=\"width: 263px;\">Bible Class</td>\n<td style=\"width: 247px;\">07:00 PM to 08:30 PM</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p>",
+            "content_html": "<h2 id=\"mcetoc_1dr0rj9qf0\" class=\"align-center\">Christian Brethren Assembly - E-city</h2>\n<h3 id=\"mcetoc_1dr0rjujr1\" class=\"align-center\">Church Activities</h3>\n<h4 id=\"mcetoc_1dr0rk77n2\" class=\"align-center\">Sunday</h4>\n<p class=\"align-center msg msg--highlight  msg--info\"><strong>Sunday School</strong> 8:45 am - 9:20 am<br><strong>Adult Bible Study</strong> 8:45 am - 9:20 am<br><strong>Worship Meeting</strong> 9:30 am - 11:30 am</p>\n<p class=\"align-center\"><strong>Wednesday</strong></p>\n<p class=\"align-center msg msg--highlight  msg--info\"><strong>Prayer Meeting</strong> 7:30 pm - 8:30 pm</p>\n<h4 id=\"mcetoc_1dr0rm2ai3\" class=\"align-center\">Friday</h4>\n<p class=\"align-center msg msg--highlight  msg--info\"><strong>Fasting Prayer</strong> 10:30 am - 1 pm</p>\n<h4 id=\"mcetoc_1dr0rn10m4\" class=\"align-center\">Saturday</h4>\n<p class=\"align-center msg msg--info\">Bible Class 7 pm - 8:30 pm</p>\n<p> </p>\n<p> </p>",
             "image": "https://cba-ecity.github.io/media/posts/5/belief-bible-book-business-267559.jpg",
             "author": {
                 "name": "John"
@@ -23,14 +23,14 @@
             "tags": [
             ],
             "date_published": "2019-11-17T20:52:12+05:30",
-            "date_modified": "2019-11-17T21:35:37+05:30"
+            "date_modified": "2019-12-01T19:27:10+05:30"
         },
         {
             "id": "https://cba-ecity.github.io/about.html",
             "url": "https://cba-ecity.github.io/about.html",
             "title": "About",
             "summary": "&hellip;",
-            "content_html": "<p>Welcome to CBA! <br><br>The Ministry of CBA started in 2013 with a vision to establish a Brethren Assembly in Electronics City, Bangalore.</p>\n<p>We started with a humble beginning and gradually consolidated ourselves as an autonomous Brethren Assembly on September 16th, 2018.<br><br>CBA is now a family of believers who love the Lord Jesus Christ and yearns to see His name be glorified in every aspect of our lives.</p>\n<p>The Holy Bible is the finally authority for our faith and practice. Our desire continues to be to provide a church that is Christ-centered and to establish a community that cares for and serves people. We are committed to peace and to ardently follow Jesus Christ to:</p>\n<ol>\n<li>Grow Spiritually</li>\n<li>Build a relationship with one another and</li>\n<li>Share the good news of the Gospel. </li>\n</ol>\n<p>The various activities of the church include, but are not limited to:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Visions India Counselling Centre</li>\n<li>Media/Publication</li>\n<li>Helping Hand Ministry</li>\n</ol>\n<p>If you are looking for a church where you would feel accepted and be taught in-depth from the Word of God, hesitate not to join us. <br><br>When you are in Bangalore, we invite you to come and worship with us!</p>",
+            "content_html": "<p>Welcome to Christian Brethren Assembly! <br><br>The Ministry of CBA started in 2013 with a vision to establish a Brethren Assembly in Electronics City, Bangalore.</p>\n<p>Following a humble beginning, we have gradually consolidated ourselves as an autonomous Brethren Assembly on the 16th of September, 2018.<br><br>CBA is now a family of believers who love the Lord Jesus Christ and yearns to see His name be glorified in every aspect of our lives.</p>\n<p>The Holy Bible is the finally authority for our faith and practice. Our desire continues to be to provide a church that is Christ-centered and to establish a community that cares for and serves people. We are committed to peace and to ardently follow Jesus Christ to:</p>\n<ol>\n<li>Grow Spiritually</li>\n<li>Build a relationship with one another and</li>\n<li>Share the good news of the Gospel. </li>\n</ol>\n<p>The various activities of the church include, but are not limited to:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Visions India Counselling Centre</li>\n<li>Media/Publication</li>\n<li>Helping Hand Ministry</li>\n</ol>\n<p>If you are looking for a church where you would feel accepted and be taught in-depth from the Word of God, hesitate not to join us. <br><br>When you are in Bangalore, we invite you to come and worship with us!</p>",
             "image": "https://cba-ecity.github.io/media/posts/4/bible-book-holy-bible-holy-book-280784.jpg",
             "author": {
                 "name": "John"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2019-11-17T18:53:33+05:30",
-            "date_modified": "2019-11-19T18:42:04+05:30"
+            "date_modified": "2019-12-01T19:28:30+05:30"
         },
         {
             "id": "https://cba-ecity.github.io/contact.html",
@@ -60,7 +60,7 @@
             "url": "https://cba-ecity.github.io/location.html",
             "title": "Location",
             "summary": "&hellip;",
-            "content_html": "<p>Please use the google maps below to navigate to us. We look forward to meeting with you soon.</p>\n<p><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.8671513979516!2d77.66651361550555!3d12.851855920970111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6d402e2a95ff%3A0x8d5b514dbb497ecf!2sVisions%20India%20Counseling%20Centre!5e0!3m2!1sen!2sin!4v1574007862922!5m2!1sen!2sin\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "content_html": "<p>Please use the below google maps to navigate to us. We look forward to meeting you soon.</p>\n<p><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.8671513979516!2d77.66651361550555!3d12.851855920970111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6d402e2a95ff%3A0x8d5b514dbb497ecf!2sVisions%20India%20Counseling%20Centre!5e0!3m2!1sen!2sin!4v1574007862922!5m2!1sen!2sin\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
             "image": "https://cba-ecity.github.io/media/posts/2/adult-background-ball-shaped-blur-220147.jpg",
             "author": {
                 "name": "John"
@@ -68,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2019-11-17T18:52:54+05:30",
-            "date_modified": "2019-11-19T18:39:02+05:30"
+            "date_modified": "2019-12-01T19:27:55+05:30"
         }
     ]
 }
